@@ -1,4 +1,4 @@
-<img src="https://imgur.com/gallery/vhpd0"></img>
+<img src="https://imgur.com/gallery/vhpd0" height="100px" width="100px"></img>
 <h1 align="center">Hi🧑‍🚀, I'm Tajul Islam👽</h1>
 <h3 align="center">A Hungry Full Stack developer from Bangladesh</h3>
 
