@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=627md-tajul-islam" alt="627md-tajul-islam" /></a> </p>
 
-- 🌱 I’m currently learning **Electron.js**
+- 🌱 I’m currently learning **Python🐍 & Django🐲**
 
 - 👨‍💻 All of my projects are available at [https://627md-tajul-islam.github.io/Portfolio-5/](https://627md-tajul-islam.github.io/Portfolio-5/)
 
-- 💬 Ask me about **React.js,Node.js**
+- 💬 Ask me about **Javascript,Frontend with React.js**
 
 - 📫 How to reach me **tajul.azazil@gmail.com**
 
