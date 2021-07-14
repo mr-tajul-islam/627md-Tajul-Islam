@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=627md-tajul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="627md-tajul-islam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=627md-tajul-islam" alt="627md-tajul-islam" /></a> </p>
-
 - 🌱 I’m currently learning **Python🐍 & Django🐲**
 
 - 👨‍💻 All of my projects are available at [https://627md-tajul-islam.github.io/Portfolio-5/](https://627md-tajul-islam.github.io/Portfolio-5/)
