@@ -1,4 +1,4 @@
-<h1 align="center">Hi,I'm Tajul Islam</h1>
+<h1 align="center">Tajul Islam</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
 
@@ -6,13 +6,13 @@
 
 - 👨‍💻 All of my projects are available at [https://627md-tajul-islam.github.io/Portfolio-5/](https://627md-tajul-islam.github.io/Portfolio-5/)
 
-- 💬 Ask me about **Javascript,Frontend with React.js**
+- 💬 Please Don't Ask me about **Javascript,Frontend with React.js**
 
 - 📫 How to reach me **tajul.azazil@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11GC4ByvK680EHA2vRMJdhbDWgxQ3bXc-/view?fbclid=IwAR3Nc5x8Wl0b5RrIkolpyzYRU3n7DpdndEfUdpL3yEFpi7-NeVRcO0gcL48](https://drive.google.com/file/d/11GC4ByvK680EHA2vRMJdhbDWgxQ3bXc-/view?fbclid=IwAR3Nc5x8Wl0b5RrIkolpyzYRU3n7DpdndEfUdpL3yEFpi7-NeVRcO0gcL48)
 
-- ⚡ Fun fact **I always think that i can't code**
+- ⚡ Fun fact **I always think that i can't code and actually it's true**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
