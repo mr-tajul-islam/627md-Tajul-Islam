@@ -18,11 +18,8 @@
 <p align="left">
  
 <a href="https://dev.to/https://dev.to/627mdtajulislam?fbclid=iwar2x1pgwd9kzcrvf3mlpzojtuqq1g_tzy3khaksjey4etqrvl_cf4fgqeho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/627mdtajulislam?fbclid=iwar2x1pgwd9kzcrvf3mlpzojtuqq1g_tzy3khaksjey4etqrvl_cf4fgqeho" height="30" width="40" /></a>
- 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tajul-islam-a56aa4202/?fbclid=iwar0aoto2zglenjjtr5ctfcyapjrup5fo0d8q2bxslzbbuvktwabqp0mnugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tajul-islam-a56aa4202/?fbclid=iwar0aoto2zglenjjtr5ctfcyapjrup5fo0d8q2bxslzbbuvktwabqp0mnugu" height="30" width="40" /></a>
- 
 <a href="https://www.facebook.com/devloper.tajul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100034278530047" height="30" width="40" /></a>
- 
 <a href="https://dribbble.com/https://dribbble.com/tajul_islam_627/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/tajul_islam_627/about" height="30" width="40" /></a>
 </p>
 
