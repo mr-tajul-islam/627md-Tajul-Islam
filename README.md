@@ -1,5 +1,5 @@
-<h1 align="center">Tajul Islam 😎</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h1 align="center">Tajul Islam</h1>
+<h3 align="center">A passionate learner from Bangladesh</h3>
 
 
 - 🌱 I’m currently learning **Python🐍 & Django🐲**
