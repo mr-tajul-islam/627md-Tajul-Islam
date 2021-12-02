@@ -2,7 +2,7 @@
 <h3 align="center">A ("Passionate" + "তুখোড়")*Learner from Bangladesh</h3>
 
 
-- 🌱 I’m currently learning **Python🐍 & Django🐲**
+- 🌱 I’m currently learning **Frontend 🖥️**
 
 - 👨‍💻 All of my projects are available at [Github🐯](https://github.com/627md-Tajul-Islam)
 
