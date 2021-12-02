@@ -4,11 +4,9 @@
 
 - 🌱 I’m currently learning **Frontend 🖥️**
 
-- 👨‍💻 All of my projects are available at [Github🐯](https://github.com/627md-Tajul-Islam)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/627md-Tajul-Islam)
 
 - 🤔 Want to know more about me ? Visit My: [Personal Website](https://627md-tajul-islam.github.io/Portfolio-5/)
-
-- 💬 Please Don't Ask me about **Javascript,Frontend with React.js** 🤣🤣
 
 - 📫 How to reach me **tajul.azazil@gmail.com** & https://www.facebook.com/devloper.tajul/
 
