@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **tajul.azazil@gmail.com** & https://www.facebook.com/devloper.tajul/
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11GC4ByvK680EHA2vRMJdhbDWgxQ3bXc-/view?fbclid=IwAR3Nc5x8Wl0b5RrIkolpyzYRU3n7DpdndEfUdpL3yEFpi7-NeVRcO0gcL48](https://drive.google.com/file/d/11GC4ByvK680EHA2vRMJdhbDWgxQ3bXc-/view?fbclid=IwAR3Nc5x8Wl0b5RrIkolpyzYRU3n7DpdndEfUdpL3yEFpi7-NeVRcO0gcL48)
-
 - ⚡ Fun fact **I always think that i can't code and actually it's true**😢
 
 <h3 align="left">Connect with me:</h3>
