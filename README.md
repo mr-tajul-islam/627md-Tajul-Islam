@@ -1,5 +1,5 @@
 <h1 align="center">{Tajul Islam}</h1>
-<h3 align="center">A ("Passionate" + "তুখোড়")*Learner from Bangladesh</h3>
+<h3 align="center">A Nerd & Passionate Learner from Bangladesh</h3>
 
 
 - 🌱 I’m currently learning **Frontend 🖥️**
