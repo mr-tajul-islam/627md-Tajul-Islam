@@ -2,7 +2,7 @@
 <h3 align="center">A Nerd & Passionate Learner from Bangladesh</h3>
 
 
-- 🌱 I’m currently learning **Frontend + Javascript 🖥️**
+- 🌱 I’m currently learning **Frontend + Javascript🖥️**
 
 - 📫 Get in touch with me **tajul.azazil@gmail.com & tajul.islamdev@gmail.com**
 
